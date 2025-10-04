@@ -13,3 +13,12 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+
+# DB & cache
+*.sqlite
+*.sqlite-shm
+*.sqlite-wal
+
+# Archives
+*.zip
+
